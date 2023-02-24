@@ -12,6 +12,7 @@ package com.mycompany.conecta4;
 public class Conecta4 {
 
     public static void main(String[] args) {
-        System.out.println("Hello!");
+        System.out.println("Prueba de BRais");
+        
     }
 }
